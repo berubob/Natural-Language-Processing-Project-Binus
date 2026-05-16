@@ -1,0 +1,6 @@
+venv_nlp_resume/
+   *.zip
+   *.tar
+   datasets/
+   __pycache__/
+*.zip
