@@ -1,6 +1,8 @@
-venv_nlp_resume/
+venv_nlp/
    *.zip
    *.tar
    datasets/
    __pycache__/
 *.zip
+
+checkpoint/
