@@ -4,7 +4,7 @@ spacy
 scikit-learn
 matplotlib
 seaborn
-PyPDF2
 torch
 tqdm
 sentence-transformers
+pypdf
