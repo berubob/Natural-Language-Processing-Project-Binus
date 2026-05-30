@@ -5,4 +5,10 @@ venv_nlp/
    __pycache__/
 *.zip
 
+Resume.csv
+Dataset/
+Data/
+*.csv
+
 checkpoint/
+exported_resume_transformer/
