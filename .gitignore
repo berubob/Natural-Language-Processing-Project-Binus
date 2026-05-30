@@ -6,7 +6,7 @@ venv_nlp/
 *.zip
 
 Resume.csv
-Dataset/
+Resume Dataset/
 Data/
 *.csv
 
